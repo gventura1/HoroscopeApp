@@ -1,5 +1,6 @@
 # HoroscopeApp
-Aplicativo desenvolvido utilizando React Native com Expo Blank Template with Typescript
+Aplicativo desenvolvido em React Native com consumo de API para obetenção dos dados, Expo + Typescript.
+
 
 How to run
 
@@ -9,4 +10,4 @@ How to run
    
    > expo start
    
- Pronto, agora é só utilizar seu dispositivo físico ou um emulador.
+ Pronto, agora é só utilizar seu dispositivo físico ou um emulador, ou caso prefira, gere um apk e instale em seu celular: https://docs.expo.io/distribution/building-standalone-apps/
