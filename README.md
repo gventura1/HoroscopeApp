@@ -6,6 +6,8 @@ How to run
 
   Dentro da pasta com o clone de os seguintes comandos:
   
+   > npm install -g expo-cli
+  
    > npm install
    
    > expo start
